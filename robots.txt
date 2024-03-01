@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: http://kuatjp.tillschneidereit.net/sitemap.xml
+Sitemap: https://kuatjp.tillschneidereit.net/sitemap.xml
